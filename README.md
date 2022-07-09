@@ -1,2 +1,17 @@
-# ukagaka-ghoststream-scenario
-GHOST STREAM用シナリオファイル
+# GHOST STREAM用シナリオファイル
+
+umeiciさん作『GHOST STREAM』用のシナリオファイル。  
+本体やマニュアル等は配布ページからダウンロード可能です。  
+
+配布ページ  
+http://etcetera.nobody.jp/
+
+## 「新たな要素」
+
+出演ゴースト：初心占い師ほたる / ひのき “the ChopSticks”  
+※ほたるの内部変更により正常に再生できません。
+
+## 「まだいける」
+
+出演ゴースト：にしき学園高等部 / ひなどり幼稚園  
+※いずれのゴーストも配布を終了されています。
