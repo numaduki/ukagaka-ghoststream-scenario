@@ -1,0 +1,3 @@
+type,scenario for theatre plugin
+name,‚Ü‚¾‚¢‚¯‚é
+directory,still_ok
